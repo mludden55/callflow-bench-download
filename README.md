@@ -29,10 +29,6 @@ batch of several scripts run back-to-back.
 Grab the latest version from the [Releases](../../releases) page on the
 right → extract the zip and run the exe. That's it.
 
-## See it in action
-
-🎥 [Watch a quick walkthrough](#) <!-- add your video link here -->
-
 ## About this project
 
 I built CallFlow Bench to sharpen my hands-on experience testing and
