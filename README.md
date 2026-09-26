@@ -36,7 +36,7 @@ validating IVR / contact-center call flows — the kind of work that matters a
 lot in Amazon Connect environments. It's an evolving personal project, and
 I'd love to hear what you think.
 
-Feel free to connect with me on LinkedIn https://www.linkedin.com/in/michaeldludden/,
+Feel free to connect with me on LinkedIn [Visit Website](https://www.linkedin.com/in/michaeldludden/),
 or reach out with questions, feedback, or if you're hiring for the Amazon
 Connect / contact center space.
 
